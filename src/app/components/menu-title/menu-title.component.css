@@ -13,4 +13,5 @@
 .menu-title__container > hr{
     margin-top: 20px;
     margin-bottom: 5px;
+    opacity: 10%;
 }
