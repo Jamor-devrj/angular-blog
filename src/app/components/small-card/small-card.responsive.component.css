@@ -1,0 +1,18 @@
+@media screen and (max-width:450px) {
+    .container__small-card{
+        width: 400px;
+        margin: auto;
+    }
+    .small-card__photo > img {
+        width: 170px;
+        min-width: 170px;
+    }
+    .small-card__title > span {       
+        margin-left: 10px;    
+    }
+    .small-card__title > h2{
+        margin: 10px; 
+        font-size: 20px;
+    }
+
+}

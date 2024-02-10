@@ -1,5 +1,6 @@
 .menu-title__container{
     color: white;
+    background-color: black;
 }
 
 .menu-title__container > h1{
@@ -9,6 +10,7 @@
     font-size: 150px;
     display: flex;
     justify-content: center;
+    background-color: black;
 }
 .menu-title__container > hr{
     margin-top: 20px;

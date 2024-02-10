@@ -1,0 +1,35 @@
+@media screen and (max-width:450px) {
+    .container__big-card{
+        
+        margin: auto;
+        
+        width: 430px;
+        height: 420px;
+    
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+    }
+    
+    .big-card__title > h1 {
+        margin: 10px;
+        font-size: 25px;        
+    }
+    
+    .big-card__description {
+        margin-top: 10px;
+        margin: 10px;  
+    }
+    
+    .big-card__description > p > a {
+        margin: auto;
+        color: grey;    
+    }
+    
+    .big-card__photo > img{
+        width: 100%;
+        min-width: 390px;
+    }
+}
+
