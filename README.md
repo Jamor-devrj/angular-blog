@@ -4,7 +4,7 @@
 # PROJETO BLOG COM ANGULAR - DIO
 
 ### RESULTADO DO PRIMEIRO MODELO RESPONSIVO
-<img src="./src/assets/modelo1.png">
+<img src="./src/assets/modelo.png">
 
 </div>
 
